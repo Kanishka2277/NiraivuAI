@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NiraivuAI – Grievance Intelligence Platform
 
 A modern AI-powered web application for automating citizen complaint handling across government departments.
@@ -58,3 +59,6 @@ npm run dev
 ## Notes
 
 This repository includes sample datasets, a production-ready folder structure, and modern UIs designed for responsive desktop/mobile usage.
+=======
+# NiraivuAI
+>>>>>>> 6a3086d6dc043776c8ac2fd1528d78a85318265d
